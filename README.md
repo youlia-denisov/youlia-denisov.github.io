@@ -27,4 +27,4 @@ Built with plain HTML and CSS — no frameworks, no build step. Push to `main` a
 
 ## Contact
 
-[youlia.denisov@gmail.com](mailto:youlia.denisov@gmail.com) · [LinkedIn](#) · [GitHub](https://github.com/YouliaXX)
+[Gmail](mailto:youlia.denisov@gmail.com) · [LinkedIn](http://www.linkedin.com/in/youliadenisov-phd) · [GitHub](https://github.com/YouliaXX)
