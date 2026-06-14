@@ -10,11 +10,9 @@ Personal portfolio site — showcasing data science, machine learning, and Power
 
 | Type | Project | Tools |
 |------|---------|-------|
-| EDA | *(add project name)* | Python, pandas, seaborn |
+| STREAMLIT APP | *(WattWise)* | Python, pandas, seaborn, plotly, streamlit |
 | EDA | *(add project name)* | Python, matplotlib |
 | ML | *(add project name)* | scikit-learn, pandas |
-| ML | *(add project name)* | scikit-learn, SQL |
-| Power BI | *(add project name)* | Power BI, DAX |
 | Power BI | *(add project name)* | Power BI, DAX, Excel |
 
 ---
@@ -27,4 +25,4 @@ Built with plain HTML and CSS — no frameworks, no build step. Push to `main` a
 
 ## Contact
 
-[youlia.denisov@gmail.com](mailto:youlia.denisov@gmail.com) · [LinkedIn](#) · [GitHub](https://github.com/YouliaXX)
+[Gmail](mailto:youlia.denisov@gmail.com) · [LinkedIn](#) · [GitHub](https://github.com/YouliaXX)
