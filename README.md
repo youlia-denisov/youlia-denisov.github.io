@@ -10,11 +10,8 @@ Personal portfolio site — showcasing data science, machine learning, and Power
 
 | Type | Project | Tools |
 |------|---------|-------|
-| EDA | *(add project name)* | Python, pandas, seaborn |
-| EDA | *(add project name)* | Python, matplotlib |
+| EDA | *WattWise - household electricity consumption analyzer* | Python, pandas, seaborn, plotly, streamlit |
 | ML | *(add project name)* | scikit-learn, pandas |
-| ML | *(add project name)* | scikit-learn, SQL |
-| Power BI | *(add project name)* | Power BI, DAX |
 | Power BI | *(add project name)* | Power BI, DAX, Excel |
 
 ---
