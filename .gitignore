@@ -29,3 +29,7 @@ myvenv/
 # Temp / logs
 *.log
 tmp/
+
+# Tests
+test_main_index.py
+tests/
