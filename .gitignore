@@ -14,11 +14,14 @@ desktop.ini
 
 # Python (for local notebook work)
 __pycache__/
+.pytest_cache
 *.py[cod]
+*.pyc
 .ipynb_checkpoints/
 .env
 venv/
 .venv/
+myvenv/
 
 # Power BI local cache
 *.pbix.lock
